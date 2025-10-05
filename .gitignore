@@ -1,3 +1,3 @@
-./.git/
-./.gitignore
-./block.py
+.git/
+.gitignore
+block.py
