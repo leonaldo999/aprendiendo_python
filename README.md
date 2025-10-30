@@ -29,6 +29,8 @@ El curso consta de varios módulos esenciales que cubren desde los fundamentos d
 | **Método de Bisección** | ✅ **Completado** | Bucles (`while`), algoritmos numéricos, manejo de flotantes. |
 | **Formateador Aritmético** | ✅ **Completado** | Lógica compleja, formato de salida, manejo de errores. |
 | **Generador de Contraseñas** | ✅ **Completado** | **Expresiones regulares (`re`)**, la librería `random`. |
+| **Algoritmo de Ruta Más Corta** | ✅ **Completado** | **Algoritmos de grafos**, estructuras de datos (diccionarios/listas anidadas). |
+| **Torre de Hanoi (Recursividad)** | ✅ **Completado** | **Recursividad**, pensamiento algorítmico, lógica de pila. |
 | **Programación Orientada a Objetos (POO)** | ⏳ **En Curso** | - |
 | **Manejo de Archivos y Excepciones** | ◻️ **Pendiente** | - |
 | **Introducción a NumPy** | ◻️ **Pendiente** | - |
@@ -75,6 +77,16 @@ El curso consta de varios módulos esenciales que cubren desde los fundamentos d
 * **Descripción:** Introducción al poderoso concepto de **Expresiones Regulares (RegEx)** para validar patrones, y uso de la librería `random` para crear contraseñas seguras y aleatorias.
 * **Archivos relevantes:** `generador_contraseñas.py`
 
+### 8. Aprenda a diseñar algoritmos creando un algoritmo de ruta más corta
+
+* **Descripción:** Exploración de **algoritmos de grafos** y estructuras de datos para encontrar el camino más eficiente entre dos puntos (posiblemente una implementación simple de Dijkstra o BFS/DFS).
+* **Archivos relevantes:** `ruta_mas_corta.py`
+
+### 9. Aprende recursividad resolviendo el rompecabezas de la Torre de Hanoi
+
+* **Descripción:** Dominio del concepto de **recursividad** implementando la solución clásica del rompecabezas de la Torre de Hanoi, lo que demuestra la capacidad de resolver problemas dividiéndolos en subproblemas.
+* **Archivos relevantes:** `torre_hanoi.py`
+
 ***
 
 ## 🛠️ Tecnologías Utilizadas
@@ -82,12 +94,19 @@ El curso consta de varios módulos esenciales que cubren desde los fundamentos d
 * **Python 3**
 * **Módulo `re` (Expresiones Regulares)**
 * **Módulo `random`**
-* (Añadir aquí librerías como `NumPy`, `Pandas`, `Matplotlib`, etc., a medida que las vayas utilizando).
+* **Git y GitHub** para control de versiones y alojamiento del código.
+* **Visual Studio Code** como entorno de desarrollo integrado (IDE).
 
 ***
 
 ## 🌟 Reconocimiento a freeCodeCamp
 
 Reitero mi sincero agradecimiento a todo el equipo de freeCodeCamp por proporcionar una **educación de calidad y accesible** que me está permitiendo desarrollar habilidades valiosas en el campo de la computación científica y la programación. ¡Su plataforma es invaluable!
+
+***
+
+## 📬 Contacto
+
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [mi perfil de GitHub](https://github.com/leonaldo999).
 
 ***
