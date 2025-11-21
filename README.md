@@ -31,7 +31,9 @@ El curso consta de varios módulos esenciales que cubren desde los fundamentos d
 | **Generador de Contraseñas** | ✅ **Completado** | **Expresiones regulares (`re`)**, la librería `random`. |
 | **Algoritmo de Ruta Más Corta** | ✅ **Completado** | **Algoritmos de grafos**, estructuras de datos (diccionarios/listas anidadas). |
 | **Torre de Hanoi (Recursividad)** | ✅ **Completado** | **Recursividad**, pensamiento algorítmico, lógica de pila. |
-| **Programación Orientada a Objetos (POO)** | ⏳ **En Curso** | - |
+| **Algoritmo de Ordenación por Mezcla** | ✅ **Completado** | **Estructuras de datos**, análisis de eficiencia (O grande), **Merge Sort**. |
+| **Calculadora de Tiempo** | ✅ **Completado** | **Manejo de tiempo/fechas**, lógica de formato de salida. |
+| **Solucionador de Sudokus** | ✅ **Completado** | **Clases y Objetos (POO)**, backtracking, diseño de algoritmos complejos. |
 | **Manejo de Archivos y Excepciones** | ◻️ **Pendiente** | - |
 | **Introducción a NumPy** | ◻️ **Pendiente** | - |
 | **Introducción a Pandas** | ◻️ **Pendiente** | - |
@@ -87,6 +89,21 @@ El curso consta de varios módulos esenciales que cubren desde los fundamentos d
 * **Descripción:** Dominio del concepto de **recursividad** implementando la solución clásica del rompecabezas de la Torre de Hanoi, lo que demuestra la capacidad de resolver problemas dividiéndolos en subproblemas.
 * **Archivos relevantes:** `torre_hanoi.py`
 
+### 10. Aprenda Estructuras de Datos mediante la Creación de un Algoritmo de Ordenación por Mezcla
+
+* **Descripción:** Inmersión profunda en estructuras de datos como las listas y el desarrollo del eficiente **algoritmo de ordenación Merge Sort**, clave para el cómputo científico.
+* **Archivos relevantes:** `ordenacion_mezcla.py`
+
+### 11. Cree Proyecto Calculadora de Tiempo
+
+* **Descripción:** Desarrollo de una función o clase para manipular y calcular el tiempo, sumando o restando duraciones y manejando la **conversión y el formato de la hora** (por ejemplo, AM/PM y días).
+* **Archivos relevantes:** `calculadora_tiempo.py`
+
+### 12. Aprenda Sobre Clases y Objetos Creando un Solucionador de Sudokus
+
+* **Descripción:** Aplicación práctica de la **Programación Orientada a Objetos (POO)** mediante la creación de clases y métodos para modelar un tablero de Sudoku y la implementación de un algoritmo de **backtracking** para resolverlo.
+* **Archivos relevantes:** `solucionador_sudokus.py`
+
 ***
 
 ## 🛠️ Tecnologías Utilizadas
@@ -96,6 +113,7 @@ El curso consta de varios módulos esenciales que cubren desde los fundamentos d
 * **Módulo `random`**
 * **Git y GitHub** para control de versiones y alojamiento del código.
 * **Visual Studio Code** como entorno de desarrollo integrado (IDE).
+* (Añadir aquí librerías como `NumPy`, `Pandas`, `Matplotlib`, etc., a medida que las vayas utilizando).
 
 ***
 
